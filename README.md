@@ -10,16 +10,20 @@ Use this URL in Tumult Hype's advanced export to load the library from the excel
 
 Your Advanced Export should look like this: 
 
-![](https://raw.githubusercontent.com/themorgantown/hypelibrary/master/image.png)
+<img src="https://raw.githubusercontent.com/themorgantown/hypelibrary/master/image.png" width="520">
+
+# Or this one
+
+Option 2, hosted by Cloudflare: 
+
+Alternatively, use this URL in Tumult Hype's advanced export to load from this site, which is fronted by Cloudflare with 1 year expires headers:
+
+`https://hypelibrary.rememberi.es`
 
 ## More info
 
-This is essentially a CDN you can use with [Tumult Hype's](http://tumult.com/hype/pro) Advanced Export option. If your site loads multiple Hype documents, the Hype Library might be downloading each time a new Hype Document is loaded. Using this CDN will add the Hype Library to your browser cache and generally speed things up. This service is offered without warranty. [Learn more, ask questions, and subscribe to updates here](https://forums.tumult.com/t/latest-hype-lib-on-cloudflare-or-similiar-cdn/10997/2?u=daniel).
+This is a CDN, hosted by a free service with no warranties, that you can use with [Tumult Hype's](http://tumult.com/hype/pro) Advanced Export option. If your site loads multiple Hype documents, the Hype Library might be downloading each time a new Hype Document is loaded. Using this CDN will add the Hype Library to your browser cache and generally speed things up. [Learn more, ask questions, and subscribe to updates here](https://forums.tumult.com/t/latest-hype-lib-on-cloudflare-or-similiar-cdn/10997/2?u=daniel).
 
-To setup your own CDN, [use the files in this repository](https://github.com/themorgantown/hypelibrary), which will be kept up to date with new Hype releases. 
-
-Use this URL in Tumult Hype's advanced export to load from this site, which is fronted by Cloudflare with 1 year expires headers:
-
-`https://hypelibrary.rememberi.es`
+To setup your own CDN, [use the files in this repository](https://github.com/themorgantown/hypelibrary), which will be kept up to date with new Hype releases.  
 
 The best way to be notified when a new Tumult Hype version is updated is by opening [joining the mailing list](http://tumult.com/hype/#social-signups).
