@@ -12,6 +12,8 @@ Your Advanced Export should look like this:
 
 <img src="https://raw.githubusercontent.com/themorgantown/hypelibrary/master/image.png" width="520">
 
+Download <a href="https://raw.githubusercontent.com/themorgantown/hypelibrary/master/Hype_CDN_prepared.hype.zip">This file</a> to get started quickly. 
+
 # Or this one
 
 Option 2, hosted by Cloudflare: 
