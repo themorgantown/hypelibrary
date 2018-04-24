@@ -1,3 +1,5 @@
+Redirect /index.html https://github.com/themorgantown/hypelibrary/blob/master/README.md
+
 <IfModule mod_expires.c>
 
     ExpiresActive on
