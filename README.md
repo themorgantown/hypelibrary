@@ -8,7 +8,7 @@ Use either of these two URLs (pick one!) in Tumult Hype's advanced export to loa
 
 `https://cdn.rawgit.com/themorgantown/hypelibrary/master`
 
-`https://gitcdn.xyz/repo/themorgantown/hypelibrary/master/`
+`https://gitcdn.xyz/repo/themorgantown/hypelibrary/master`
 
 Your Advanced Export should look like this: 
 
@@ -16,11 +16,9 @@ Your Advanced Export should look like this:
 
 Download <a href="https://raw.githubusercontent.com/themorgantown/hypelibrary/master/Hype_CDN_prepared.hype.zip">this file</a> to get started quickly. 
 
-# Or this one
+# Or, you even have a third option:
 
-Option 2, hosted by Cloudflare: 
-
-Alternatively, use this URL in Tumult Hype's advanced export to load from this site, which is fronted by Cloudflare with 1 year expires headers:
+Hosted by Cloudflare, which pulls from Nearly Free Speech, with 1 year expires headers: 
 
 `https://hypelibrary.rememberi.es`
 
