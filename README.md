@@ -4,9 +4,10 @@ This repo contains files required to roll your own content delivery network for 
 
 # Use this CDN
 
-Use this URL in Tumult Hype's advanced export to load the library from the excellent [Rawgit](https://rawgit.com/) service:
+Use either of these two URLs (pick one!) in Tumult Hype's advanced export to load the library from the excellent [Rawgit](https://rawgit.com/) service:
 
 `https://cdn.rawgit.com/themorgantown/hypelibrary/master`
+`https://gitcdn.xyz/repo/themorgantown/hypelibrary/master/`
 
 Your Advanced Export should look like this: 
 
