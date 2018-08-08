@@ -1,4 +1,4 @@
-<img style="float:right" src="https://raw.githubusercontent.com/themorgantown/hypelibrary/master/image-hypelogo.png" width="150">
+<img style="float:right" src="https://raw.githubusercontent.com/themorgantown/hypelibrary/master/readme-hypelogo.png" width="150">
 
 # Tumult Hype Library CDN
 
@@ -13,7 +13,7 @@ To use this repository as your own external runtime host, use either of the two 
 
 Your Advanced Export pane should look like this: 
 
-<img src="https://raw.githubusercontent.com/themorgantown/hypelibrary/master/image.png" width="520">
+<img src="https://raw.githubusercontent.com/themorgantown/hypelibrary/master/readme-advanced-export-image.png" width="520">
 
 Download <a href="https://raw.githubusercontent.com/themorgantown/hypelibrary/master/Hype_CDN_prepared.hype.zip">this file</a> to get started quickly. 
 
