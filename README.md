@@ -13,6 +13,7 @@ To use this repository as your own external runtime host, use either of the two 
 
 `https://cdn.jsdelivr.net/gh/themorgantown/hypelibrary/`
 
+[![](https://data.jsdelivr.com/v1/package/gh/themorgantown/hypelibrary/badge)](https://www.jsdelivr.com/package/gh/themorgantown/hypelibrary)
 
 Your Advanced Export pane should look like this: 
 
