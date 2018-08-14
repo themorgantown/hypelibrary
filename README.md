@@ -5,11 +5,14 @@
 This repository contains files required to create your own content delivery network for Tumult Hype's runtime. An external runtime URL is useful for delivering high performance advertisements and for leveraging browser cache to speed up your documents. To learn more about the advanced export and external runtime feature in Tumult Hype, [visit this page](http://tumult.com/hype/documentation/3.0/#external-runtime-hosting). View [examples of ads & web banners](https://tumult.com/hype/gallery/#Ads%20&%20Web%20Banners) created in Tumult Hype.
 ## Use this Library
 
-To use this repository as your own external runtime host, use either of the two URLs below in Tumult Hype's advanced export to load the library from either the [Rawgit](https://rawgit.com/) or [GitCDN](https://github.com/schme16/gitcdn.xyz) services. These services will automatically update when this repository does: 
+To use this repository as your own external runtime host, use either of the two URLs below in Tumult Hype's advanced export to load the library from either the [Rawgit](https://rawgit.com/), [GitCDN](https://github.com/schme16/gitcdn.xyz) or [Jsdelivr](https://www.jsdelivr.com/) services. These services will automatically update when this repository does: 
 
 `https://cdn.rawgit.com/themorgantown/hypelibrary/master`
 
 `https://gitcdn.xyz/repo/themorgantown/hypelibrary/master`
+
+`https://cdn.jsdelivr.net/gh/themorgantown/hypelibrary/`
+
 
 Your Advanced Export pane should look like this: 
 
