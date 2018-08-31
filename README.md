@@ -7,13 +7,16 @@ This repository contains files required to create your own content delivery netw
 
 To use this repository as your own external runtime host, use either of the two URLs below in Tumult Hype's advanced export to load the library from either the [Rawgit](https://rawgit.com/), [GitCDN](https://github.com/schme16/gitcdn.xyz) or [Jsdelivr](https://www.jsdelivr.com/) services. These services will automatically update when this repository does: 
 
-`https://cdn.rawgit.com/themorgantown/hypelibrary/master`
+**New:**
 
-`https://gitcdn.xyz/repo/themorgantown/hypelibrary/master`
-
-`https://cdn.jsdelivr.net/gh/themorgantown/hypelibrary/`
-
+`https://cdn.jsdelivr.net/gh/themorgantown/hypelibrary/` uses [JSdelivr](https://jsdelivr.net)
+ 
 [![](https://data.jsdelivr.com/v1/package/gh/themorgantown/hypelibrary/badge)](https://www.jsdelivr.com/package/gh/themorgantown/hypelibrary)
+ 
+
+`https://cdn.rawgit.com/themorgantown/hypelibrary/master/` uses [Rawgit's CDN](https://rawgit.com)
+or
+`https://gitcdn.xyz/repo/themorgantown/hypelibrary/master/` uses Gitcdn. 
 
 Your Advanced Export pane should look like this: 
 
