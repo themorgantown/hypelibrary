@@ -2,31 +2,37 @@
 
 # Tumult Hype Library CDN
 
-This repository contains files required to create your own content delivery network for Tumult Hype's runtime. An external runtime URL is useful for delivering high performance advertisements and for leveraging browser cache to speed up your documents. To learn more about the advanced export and external runtime feature in Tumult Hype, [visit this page](http://tumult.com/hype/documentation/3.0/#external-runtime-hosting). View [examples of ads & web banners](https://tumult.com/hype/gallery/#Ads%20&%20Web%20Banners) created in Tumult Hype.
-## Use this Library
+This readme explains how to use the jsDelvr CDN to load the Hype runtime. This repository also contains files required to create your own content delivery network for <a href="https://tumult.com/hype/pro">Tumult Hype's</a> runtime. 
 
-To use this repository as your own external runtime host, use either of the two URLs below in Tumult Hype's advanced export to load the library from either the [Rawgit](https://rawgit.com/), [GitCDN](https://github.com/schme16/gitcdn.xyz) or [Jsdelivr](https://www.jsdelivr.com/) services. These services will automatically update when this repository does: 
+Why? An external runtime URL is useful for delivering high performance advertisements and for leveraging browser cache to speed up your documents. To learn more about the advanced export and external runtime feature in Tumult Hype, [visit this page](http://tumult.com/hype/documentation/3.0/#external-runtime-hosting). View [examples of ads & web banners](https://tumult.com/hype/gallery/#Ads%20&%20Web%20Banners) created in Tumult Hype.
 
-**New:**
+## Use this (Unoffocial) CDN:
 
-`https://cdn.jsdelivr.net/gh/themorgantown/hypelibrary/` uses [JSdelivr](https://jsdelivr.net)
- 
-[![](https://data.jsdelivr.com/v1/package/gh/themorgantown/hypelibrary/badge)](https://www.jsdelivr.com/package/gh/themorgantown/hypelibrary)
- 
+To use this repository as your own external runtime host, use the URL below when selecting File > Advanced Export in Tumult Hype Professional:
 
-`https://cdn.rawgit.com/themorgantown/hypelibrary/master/` uses [Rawgit's CDN](https://rawgit.com)
-or
-`https://gitcdn.xyz/repo/themorgantown/hypelibrary/master/` uses Gitcdn. 
+**Recommended:**
+
+`https://cdn.jsdelivr.net/gh/themorgantown/hypelibrary/`
+
+uses [JSdelivr](https://jsdelivr.net) 
+
+[![](https://data.jsdelivr.com/v1/package/gh/themorgantown/hypelibrary/badge)](https://www.jsdelivr.com/package/gh/themorgantown/hypelibrary)**!**
+
+Download <a href="https://raw.githubusercontent.com/themorgantown/hypelibrary/master/Hype_CDN_prepared.hype.zip">this Hype document</a> to get started quickly. 
 
 Your Advanced Export pane should look like this: 
 
 <img src="https://raw.githubusercontent.com/themorgantown/hypelibrary/master/readme-advanced-export-image.png" width="520">
 
-Download <a href="https://raw.githubusercontent.com/themorgantown/hypelibrary/master/Hype_CDN_prepared.hype.zip">this file</a> to get started quickly. 
 
-Or, you even have a third option, which is also backed by a CDN. The below option is fronted by Cloudflare, which pulls from Nearly Free Speech, with 1 year expires headers: 
+<hr>
 
-`https://hypelibrary.rememberi.es`
+### Alternatives:
+
+`https://cdn.rawgit.com/themorgantown/hypelibrary/master/` uses [Rawgit's CDN](https://rawgit.com)
+or
+`https://gitcdn.xyz/repo/themorgantown/hypelibrary/master/` uses Gitcdn. 
+
 
 ## When should you use this? 
 
