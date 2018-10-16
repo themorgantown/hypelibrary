@@ -27,10 +27,8 @@ Your Advanced Export pane should look like this:
 
 <hr>
 
-### Alternatives:
+### Alternative:
 
-`https://cdn.rawgit.com/themorgantown/hypelibrary/master/` uses [Rawgit's CDN](https://rawgit.com)
-or
 `https://gitcdn.xyz/repo/themorgantown/hypelibrary/master/` uses Gitcdn. 
 
 
