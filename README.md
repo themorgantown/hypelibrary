@@ -6,9 +6,9 @@ This readme explains how to use the jsDelvr CDN to load the Hype runtime. This r
 
 Why? An external runtime URL is useful for delivering high performance advertisements and for leveraging browser cache to speed up your documents. To learn more about the advanced export and external runtime feature in Tumult Hype, [visit this page](http://tumult.com/hype/documentation/3.0/#external-runtime-hosting). View [examples of ads & web banners](https://tumult.com/hype/gallery/#Ads%20&%20Web%20Banners) created in Tumult Hype.
 
-## Use this (Unoffocial) CDN:
+## Use this (Unofficial) CDN:
 
-To use this repository as your own external runtime host, use the URL below when selecting File > Advanced Export in Tumult Hype Professional:
+To use this repository as your own external runtime host, use the URL below when selecting `File > Advanced Export` in Tumult Hype Professional:
 
 **Recommended:**
 
