@@ -14,7 +14,7 @@ To use this repository as your own external runtime host, use the URL below when
 
 **Recommended:**
 
-`https://cdn.jsdelivr.net/gh/themorgantown/hypelibrary/`
+`https://cdn.jsdelivr.net/gh/themorgantown/hypelibrary@master`
 
 uses [JSdelivr](https://jsdelivr.net) 
 
